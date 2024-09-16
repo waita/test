@@ -1,0 +1,6 @@
+name=input('请输入你的名字：')
+age=input('请输入您的年龄：')
+say=input('请输入自我介绍：')
+print('姓名',name)
+print('年龄',age)
+print('自我介绍',say)
