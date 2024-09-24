@@ -1,0 +1,6 @@
+a=float(input('输入数字:'))
+b=float(input('输入数字:'))
+print('两数的和:',a+b)
+print('两数的差:',a-b)
+print('两数的积:',a*b)
+print('两数的商:',a/b)

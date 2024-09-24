@@ -1,0 +1,5 @@
+a=float(input('输入第一个商品:'))
+b=float(input('输入第二个商品:'))
+c=float(input('输入第三个商品:'))
+print('商品的总和:',a+b+c)
+print('取整后的总和:',int(a+b+c))
